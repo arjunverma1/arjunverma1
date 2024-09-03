@@ -8,9 +8,9 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/jaiswaladi246)
+- 👨‍💻 All of my projects are available at [https://github.com/arjunverma1](https://github.com/arjunverma1)
 
-- 💬 Ask me about **DevOps & Cloud DevOps**
+- 💬 Ask me about ** Web Development , DevOps & Cloud DevOps**
 
 - 📫 How to reach me 
 
