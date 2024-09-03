@@ -32,8 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswaladi246&" alt="jaiswaladi246" /></p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
 <!--
 **arjunverma1/arjunverma1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
