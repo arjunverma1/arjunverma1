@@ -1,6 +1,6 @@
 ## Hi there 👋 Arjun Verma
 
-##[![trophy](https://github-profile-trophy.vercel.app/?username=arjunverma1)](https://github.com/arjunverma1/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arjunverma1)](https://github.com/arjunverma1/github-profile-trophy)
 
 <h3 align="center">A passionate Full Stack  Engineer From India. </h3>
 
