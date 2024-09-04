@@ -3,6 +3,8 @@
 
 <h3 align="center">A passionate Full Stack  Engineer From India. </h3>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunverma1&show_icons=true&locale=en&layout=compact" alt="arjunverma1" /></p>
+
 
 
 
