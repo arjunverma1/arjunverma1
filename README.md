@@ -1,5 +1,5 @@
 ## Hi there 👋 Arjun Verma
-https://github.com/arjunverma1/arjunverma1/blob/main/README.md
+
 
 <h3 align="center">A passionate Full Stack  Engineer From India. </h3>
 
